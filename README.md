@@ -13,3 +13,5 @@ Credits: I learned this at The Ultimate MySQL Bootcamp at Udemy.
 6. If you want to start using the Database schema then just type 
 #### USE instagram_clone_db; 
 and Now we are using instagram_clone_db schema
+
+![ER](https://user-images.githubusercontent.com/27828691/135500193-b795f70d-42f0-4333-be46-a10d3262c594.png)
