@@ -11,5 +11,5 @@ Credits: I learned this at The Ultimate MySQL Bootcamp at Udemy.
 4. Run create_database.sql via File => Run SQL Script
 5. File => Open SQL Script and open set_sql_mode.sql and execute it to avoid SQL Error 1055.
 6. If you want to start using the Database schema then just type 
-## USE instagram_clone_db; 
+#### USE instagram_clone_db; 
 and Now we are using instagram_clone_db schema
